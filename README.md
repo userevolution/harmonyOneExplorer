@@ -1,4 +1,4 @@
-# ![](https://i.imgur.com/dwsdYZX.png =80x80)Harmony Explorer
+# Harmony Explorer
 
 
 Harmony Explorer 
