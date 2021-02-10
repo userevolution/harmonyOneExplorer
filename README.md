@@ -88,7 +88,7 @@ https://youtu.be/pfxkoxjxOmU
 `npm run testnet`
 
 ```json=
-    "testnet": "REACT_APP_ETH_RPC_URL=hhttps://rpc.s0.b.hmny.io  && npm start && npm run service-runner",,
+    "testnet": "REACT_APP_ETH_RPC_URL=https://rpc.s0.b.hmny.io  && npm start && npm run service-runner",,
   
 ```
 
