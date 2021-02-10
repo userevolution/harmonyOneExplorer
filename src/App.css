@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0cb7e4;
+  z-index: 1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5ef2c2;
+  border-radius: 5px;
+}
